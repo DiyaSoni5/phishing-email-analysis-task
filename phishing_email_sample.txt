@@ -1,0 +1,13 @@
+Subject: 🔒 Security Alert: Unusual Sign-in Activity Detected  
+From: Microsoft Support <micr0soft-support@micr0soft-security-support.com>  
+
+Dear User,  
+We’ve detected suspicious login activity from an unknown device.  
+For your safety, we have temporarily locked your Microsoft account.
+
+Click the link below to verify your identity and unlock access:
+→ https://micr0soft-security-support.com/verify
+
+Failure to act within 24 hours will result in permanent account suspension.
+
+Microsoft Security Team
